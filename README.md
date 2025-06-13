@@ -27,6 +27,8 @@ It enables businesses to track application trends, improve approval efficiencies
 **Snapshots of the Dashboard Page**
 ![image](https://github.com/user-attachments/assets/84ae61b0-e1b3-4f8a-b688-71000ef8f53c)
 
+**Image of Data Model**
+![image](https://github.com/user-attachments/assets/ea428487-ca90-4dee-a22d-9ccf0374b171)
 
 
 
